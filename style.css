@@ -1,0 +1,115 @@
+body {
+    font-family: sans-serif;
+    width: 1430px;
+    height: 2464px;
+    background-image: url("https://learn.algoritmika.org/uploads/student/1223661/67af48fd364de.png");
+}
+header {
+    background-image: url("https://learn.algoritmika.org/uploads/student/1223661/67a7135c3c3d7.png");
+    width: 1440px;
+    height: 113px;
+    margin: -8px;
+}
+header div img {
+    margin: 10px;
+}
+header div h1{
+    margin-top: -85px;
+    margin-left: 95px;
+    color: #E3FB71;
+    font-size: 45px;
+    text-shadow: 3px 0 #439400, -3px 0 #439400, 0 3px #439400, 0 -3px #439400,
+             3px 3px #439400, -3px -3px #439400, 3px -3px #439400, -3px 3px #439400;
+    font-family: Playfair;
+}
+footer {
+    background-image: url("https://learn.algoritmika.org/uploads/student/1223661/67af49a968b59.png");
+    width: 1440px; 
+    height: 275px;
+    margin-top: 10px;
+    margin-left: -10px;
+}
+.img-bigsize-leftmargin-e29urh {
+    width: 12.5%;
+    margin-left: 1240px;
+    margin-top: 40px;
+}
+div.ABOUTUS-1 {
+    border-radius: 33px;
+    width: 686px;
+    height: 443px;
+    margin: 25px;
+    margin-top: 40px;
+    background-image: url("https://learn.algoritmika.org/uploads/student/1223661/67b03f766a45b.png");
+}
+div.ABOUTUS-1 h1 {
+    text-align: center;
+    position: relative;
+    top: 15px;
+    font-family: Playfair;
+    font-size: 52px;
+    color: white;
+}
+div.ABOUTUS-INSIDE {
+    WIDTH: 686PX;
+    HEIGHT: 350px;
+    background-color: #e4fb715b;
+    border-radius: 33px;
+}
+div.ABOUTUS-INSIDE2 {
+    WIDTH: 686PX;
+    HEIGHT: 289px;
+    background-color: #e4fb715b;
+    border-radius: 33px;
+}
+div.ABOUTUS-INSIDE p, div.ABOUTUS-INSIDE2 p {
+    font-size: 24px;
+    position: relative;
+    top: 15px;
+    left: 15px;
+    font-family: Andika;
+    font-weight: bold;
+    width: 584px;
+    height: 156px;
+}
+div.ABOUTUS-INSIDE ul li {
+    font-size: 24px;
+    position: relative;
+    top: 15px;
+    left: 15px;
+    font-family: Andika;
+    font-weight: bold;
+}
+div.ABOUTUS-INSIDE img.IMG-1 {
+        position: relative;
+        top: -40px;
+        left: 400px;
+}
+div.ABOUTUS-INSIDE2 img.IMG-1 {
+        position: relative;
+        top: -45px;
+        left: 20px;
+}
+div.ABOUTUS-INSIDE img.IMG-2 {
+        position: relative;
+        top: -245px;
+        left: 400px;
+}
+div.ABOUTUS-2 {
+    border-radius: 33px;
+    width: 686px;
+    height: 443px;
+    margin: 25px;
+    margin-top: 40px;
+    position: relative;
+    left: 686px;
+    background-image: url("https://learn.algoritmika.org/uploads/student/1223661/67b03f766a45b.png");
+}
+div.ABOUTUS-2 h1 {
+    text-align: center;
+    position: relative;
+    top: 15px;
+    font-family: Playfair;
+    font-size: 52px;
+    color: white;
+}
